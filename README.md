@@ -1,5 +1,5 @@
 # sistema-solar
-Um projeto de sistema solar, criado apenas com HTML e CSS
+Um projeto de sistema solar animado, criado apenas com HTML e CSS
 
 <br>
 
